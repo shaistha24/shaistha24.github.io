@@ -71,6 +71,9 @@ input, select, textarea {
 	appearance: none;
 }
 
+.vl {
+	border-left: 3px solid white;
+  }
 /* Basic */
 
 	@-ms-viewport {
